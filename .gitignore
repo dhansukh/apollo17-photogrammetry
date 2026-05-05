@@ -1,0 +1,5 @@
+miniconda3/
+gaussian-splatting/
+*.sh~
+__pycache__/
+*.pyc
