@@ -2,6 +2,12 @@
 
 Photogrammetric reconstruction and 3D Gaussian Splatting on 15 Apollo 17 lunar surface images, processed end-to-end on the ASU Sol HPC cluster.
 
+## Demo Videos
+
+- [Demo Video 1](https://youtu.be/7ajr8qmjcPs)
+- [Demo Video 2](https://youtu.be/xAKiqNm51yc)
+
+
 ## Overview
 
 This project implements Part A of the photogrammetry assignment:
